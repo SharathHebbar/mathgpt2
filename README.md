@@ -19,6 +19,8 @@ GPT2 small is fine-tuned on the ultrachat_200k dataset to create ChatGPT2.
 
 5. This model is a finetuned version of ```gpt2``` using ```ArtifactAI/arxiv-math-instruct-50k```
 
+6. You can track the models graph here [Graphs](https://api.wandb.ai/links/sharathhebbar/j1dyilpd)
+
 ## Model description
 
 GPT-2 is a transformers model pre-trained on a very large corpus of English data in a self-supervised fashion. This
