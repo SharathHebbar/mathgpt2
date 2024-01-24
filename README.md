@@ -1,5 +1,6 @@
 # MathGPT2
-GPT2 small is fine-tuned on the ultrachat_200k dataset to create ChatGPT2.
+
+This model is a finetuned version of ```gpt2``` using ```ArtifactAI/arxiv-math-instruct-50k```
 
 ## Technical Details
 1. The model's repository is in HuggingFace Link: https://huggingface.co/Sharathhebbar24/math_gpt2/tree/main
@@ -17,9 +18,7 @@ GPT2 small is fine-tuned on the ultrachat_200k dataset to create ChatGPT2.
 | ------- | -------- | -------- |
 | apache-2.0 | ArtifactAI/arxiv-math-instruct-50k | en |
 
-5. This model is a finetuned version of ```gpt2``` using ```ArtifactAI/arxiv-math-instruct-50k```
-
-6. You can track the models graph here [Graphs](https://api.wandb.ai/links/sharathhebbar/j1dyilpd)
+5. You can track the models graph here [Graphs](https://api.wandb.ai/links/sharathhebbar/j1dyilpd)
 
 ## Model description
 
